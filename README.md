@@ -1,10 +1,10 @@
 ## Responsive Personal Portfolio Website 
-### [Visit Website](https://animesh-rawat.web.app/)
+### [Visit Website](https://kapil-77.github.io/portfolio/)
 
 ### Improvements 
 ```
-1. Make PWA
-2. Improve overall ratings as per lighthouse auditing
-3. Offine mode support
+1. Projects toggle without mouse could be smoother.
+2. Added Dark mode.
+3. Offine mode support.
 4. 404 page to show error
 ```
